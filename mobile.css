@@ -27,19 +27,7 @@
         margin-top: 10px;
     }
 
-    .topText h2 {
-        font-size: 40px;
-        font-weight: 600;
-        margin-top: 80px;
-    }
 
-    .hero__topText-left {
-        padding-right: 0;
-    }
-
-    .hero__topText-right {
-        padding-left: 5px;
-    }
 
     .bottomtext {
         margin-top: 0;
@@ -59,6 +47,21 @@
 
         gap: 1rem;
     }
+
+    .topText h2 {
+        font-size: 40px;
+        font-weight: 600;
+        margin-top: 80px;
+    }
+
+    .hero__topText-left {
+        padding-right: 0;
+    }
+
+    .hero__topText-right {
+        padding-left: 5px;
+    }
+
 
     .cta__text {
         font-size: 35px;
