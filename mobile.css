@@ -15,7 +15,6 @@
         flex-direction: column;
         align-items: center;
         gap: 1rem;
-        flex: content;
     }
 
     .nav {
@@ -49,11 +48,7 @@
         letter-spacing: 1px;
     }
 
-    .cta__text {
-        font-size: 35px;
-        font-weight: 700;
-        align-self: center;
-    }
+
 
 }
 
@@ -63,5 +58,11 @@
         flex-direction: column;
 
         gap: 1rem;
+    }
+
+    .cta__text {
+        font-size: 35px;
+        font-weight: 700;
+        align-self: center;
     }
 }
